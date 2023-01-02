@@ -1,4 +1,4 @@
-## 我是一名 Front-End developer.
+## Front-End developer.
 
 * 從 2022 年開始踏入軟體開發的領域。
 
