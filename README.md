@@ -6,6 +6,11 @@
 
 ### Project
 
+* Invoice-map     
+  台灣開票地圖，顯示 2020 ＆ 2016 年各地的開票資訊以及歷史紀錄。     
+  [Page](https://invoice-map-f2e.vercel.app/zh-Hant) [Repo](https://github.com/gitevanhsu/invoice-map-f2e)  
+  * Next.js、TypeScript、TailwindCSS、D3.js、i18next、Recharts、next-usequerystate、Google Apps Script、Husky、Jest、Testing-Library、Cypress、Storybook
+
 * Book Reviews!     
   Book Reviews! 是一個書籍評論交流的平台，可以在這裡留下對書籍的想法或是分享自己喜歡的書籍。    
   [Page](https://book-reviews-three.vercel.app/) [Repo](https://github.com/gitevanhsu/book-reviews)  
